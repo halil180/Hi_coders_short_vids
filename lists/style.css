@@ -1,0 +1,12 @@
+ul{
+    /* list-style-type: "🤪"; */
+    /* list-style-position */
+    /* border: 1px solid black; */
+    /* list-style-position: inside; */
+    /* list-style-image */
+    /* list-style-image: url("http://assets.css-tricks.ir/images/css-tricks.ir.png"); */
+    /* list-style-image: linear-gradient(to left bottom, red, rgb(251, 255, 0));  */
+    /* list-style: upper-roman inside ;
+    list-style-type: none; */
+    list-style-type:unset;
+}
