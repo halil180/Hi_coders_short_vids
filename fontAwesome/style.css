@@ -1,0 +1,8 @@
+.fa-solid{
+    color: blue;
+    transition: 300ms linear all;
+}
+.fa-solid:hover{
+    color: red;
+    transform: rotate(180deg);
+}
